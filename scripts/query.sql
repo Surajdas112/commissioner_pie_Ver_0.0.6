@@ -1,0 +1,1 @@
+SELECT * FROM zone WHERE ZCDR_CODE LIKE '50%' and level= 2 order by ZCDR_NAME;
